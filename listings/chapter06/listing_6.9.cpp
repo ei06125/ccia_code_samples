@@ -2,6 +2,7 @@
 #include <mutex>
 #include <atomic>
 #include "node.hpp"
+
 template<typename T>
 class threadsafe_queue
 {
