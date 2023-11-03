@@ -1,0 +1,12 @@
+{
+    "name": "woven-solutions",
+    "version-string": "1.0.0",
+    "dependencies": [
+      "gtest",
+      "benchmark",
+      "catch",
+      "spdlog",
+      "fmt"
+    ]
+  }
+  
